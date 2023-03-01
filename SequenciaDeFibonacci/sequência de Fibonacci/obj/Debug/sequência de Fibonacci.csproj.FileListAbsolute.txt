@@ -1,0 +1,8 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\bin\Debug\sequência de Fibonacci.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\bin\Debug\sequência de Fibonacci.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\bin\Debug\sequência de Fibonacci.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\obj\Debug\sequência de Fibonacci.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\obj\Debug\sequência de Fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\obj\Debug\sequência de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\obj\Debug\sequência de Fibonacci.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\TestesResolvidos\sequência de Fibonacci\sequência de Fibonacci\obj\Debug\sequência de Fibonacci.pdb
